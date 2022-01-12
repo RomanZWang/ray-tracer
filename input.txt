@@ -1,0 +1,12 @@
+png 256 196 figure.png
+eye 0 1 1
+color 0.7 0.7 1
+sphere -10 -10 -40 20 0.25
+color 0.5 0.5 1
+sphere 10 10 -40 15 0.25
+color 1 0.5 1
+bulb 10 10 -25
+color 1 1 0.5
+sun -10 10 -25
+color -1 -1 -1
+bulb -10 10 -25
