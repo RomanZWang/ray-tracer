@@ -3,3 +3,11 @@ Renders 2 spheres using ray tracing with rough surface perturbation. Uses python
 
 ## Instructions
 ```python ray.py input.txt```
+
+## Results
+
+### Smooth
+![smooth rendered image](./smooth.png)
+
+### Perturbed
+![perturbed rendered imnage](./perturbed.png)
